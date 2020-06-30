@@ -48,6 +48,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
 ### Analyzing the Bundle Size
+// Why was this built?
+To practice React concepts. In this case it was to practice React props
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
